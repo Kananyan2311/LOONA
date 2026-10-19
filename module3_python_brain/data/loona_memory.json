@@ -1,0 +1,89 @@
+{
+  "project": "Project L.O.O.N.A. (Locomotive Optical Operative for Navigation and Assistance)",
+  "database": "SQLite3 (loona_database.db)",
+  "faces": {
+    "Kananyan": {
+      "name": "Kananyan",
+      "role": "Chief Architect",
+      "notes": "Creator of Project LOONA",
+      "timestamp": 1791775631,
+      "date": "2026-10-12 11:27:11"
+    },
+    "Kana": {
+      "name": "Kana",
+      "role": "Friend / Orbit",
+      "notes": "",
+      "timestamp": 1791741716,
+      "date": "2026-10-12 02:01:56"
+    },
+    "Nicole": {
+      "name": "Nicole",
+      "role": "Friend / Orbit",
+      "notes": "",
+      "timestamp": 1791775637,
+      "date": "2026-10-12 11:27:17"
+    }
+  },
+  "commands": {
+    "patrol": {
+      "trigger": "patrol",
+      "actions": [
+        {
+          "type": "drive",
+          "fwd": 150
+        },
+        {
+          "type": "servos",
+          "preset": "perk_ears"
+        }
+      ],
+      "desc": "Autonomous patrol macro",
+      "date": "2026-10-12 11:27:11"
+    }
+  },
+  "notes": {
+    "Project Identity": {
+      "value": "Project L.O.O.N.A. (Locomotive Optical Operative for Navigation and Assistance)",
+      "date": "2026-10-12 11:27:11"
+    },
+    "color": {
+      "value": "cyan",
+      "date": "2026-10-12 11:27:17"
+    }
+  },
+  "custom_pins": {
+    "2": {
+      "role": "LINE_LEFT",
+      "label": "Line Follower Left Sensor",
+      "last_val": 0,
+      "updated_at": "2026-10-12 11:27:17"
+    },
+    "3": {
+      "role": "LINE_RIGHT",
+      "label": "Line Follower Right Sensor",
+      "last_val": 0,
+      "updated_at": "2026-10-12 11:27:17"
+    },
+    "21": {
+      "role": "SERVO",
+      "label": "Servo GPIO 21",
+      "last_val": 45,
+      "updated_at": "2026-10-12 11:27:25"
+    }
+  },
+  "pin_labels": {
+    "2": "Line Follower Left Sensor",
+    "3": "Line Follower Right Sensor",
+    "6": "Relay / Gripper",
+    "21": "Servo GPIO 21",
+    "38": "Aux Sensor Power"
+  },
+  "line_follower": {
+    "enabled": true,
+    "left_pin": 2,
+    "right_pin": 3,
+    "speed": 150,
+    "invert": false,
+    "updated_at": "2026-10-12 11:27:25"
+  }
+}
