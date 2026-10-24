@@ -529,57 +529,6 @@ Proudly engineered by **Team LOONA (CpE241B)** at **National University – Lagu
 
 | Developer | Role & Contributions |
 |:---|:---|
-| **Ivan Lawrence F. Gonzales** | **Chief Systems Architect** — Distributed Topology, 20kHz PWM Motor Matrix, I2S Audio, Full-Stack Cockpit |
-| **Jekjek C. Florencondia** | **Firmware & Embedded Systems Engineer** — ESP32-S3 CAM FreeRTOS Optimization & I2S Dual Buffers |
-| **Warren S. Ricamara** | **Hardware & Power Engineer** — 3S2P Li-ion BMS Power Rail, MP1584EN Regulators, Star Grounding |
-| **Steven Lo Nieva** | **Computer Vision Engineer** — OpenCV Haar/DNN Face Tracking & P-Controller Dynamics |
-| **Zhyldjian Adovas** | **AI & NLP Engineer** — Google Gemini Multimodal Prompt Engineering & Tool Calling Integration |
-| **Ace Anthony Guardiono** | **Mechanical & QA Engineer** — 4WD Chassis Fabrication, 5-Axis Servo Mounts, Bench Testing |
-
-**Course**: CPMICR1L - Microprocessor and Microcontroller Systems and Design  
-**Adviser**: Engr. Helcy D. Alon  
-**Institution**: School of Engineering and Architecture, National University – Laguna  
-**Academic Year**: 2026–2027 (1st Trimester)
-
-</div>
-
----
-
-<div align="center">
-
-### 💖 ☾ "Stan LOONA, Stan Robotics!" ☽ 💖
-*Built with ❤️, C++, Python, and LOONA idol power.*
-
-</div>
-
-=== TEST 2: SQLITE3 DATABASE ENGINE ===
-[PASS] Initialized SQLite3 database with 6 tables.
-[PASS] Inserted and retrieved face 'orbit_user'.
-[PASS] Chat conversation logged and retrieved.
-
-=== TEST 3: OPENCV VISION TRACKER ===
-[PASS] Haar Cascade face detection & P-Controller verified (30 FPS, <45ms latency).
-
-=== TEST 4: FASTAPI REST ENDPOINTS & WEBSOCKETS ===
-[PASS] Network endpoints, photo capture, and audio routes verified.
-
-=== TEST 5: 20 kHz ULTRASONIC PWM & FAILSAPES ===
-[PASS] 20,000 Hz PWM verified with 0 dB acoustic motor whine.
-[PASS] 800ms watchdog failsafe auto-braking verified.
-
-🎉 ALL TESTS PASSED SUCCESSFULLY! ZERO ERRORS DETECTED.
-```
-
----
-
-## 💌 The 6 Developers Behind LOONA
-
-Proudly engineered by **Team ANDMIXX (CpE241B)** at **National University – Laguna**:
-
-<div align="center">
-
-| Developer | Role & Contributions |
-|:---|:---|
 | **Ivan Lawrence F. Gonzales** | **Chief Systems Architect & Embedded Systems Engineer **  |
 | **Jekjek C. Florencondia** |
 | **Warren S. Ricamara** | 
@@ -587,7 +536,7 @@ Proudly engineered by **Team ANDMIXX (CpE241B)** at **National University – La
 | **Zhyldjian Adovas** | 
 | **Ace Anthony Guardiono** |
 
-**Course**: CPMICR1L - Microprocessor and Microcontroller Systems and Design  
+**Course**: CPMICR1L - Microprocessor and Microcontroller Systems and Design    
 **Institution**: School of Engineering and Architecture, National University – Laguna  
 **Academic Year**: 2026–2027 (1st Trimester)
 
@@ -601,4 +550,5 @@ Proudly engineered by **Team ANDMIXX (CpE241B)** at **National University – La
 *Built with ❤️, C++, Python, and LOONA idol power.*
 
 </div>
+
 
