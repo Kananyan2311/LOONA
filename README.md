@@ -17,7 +17,7 @@
 ```
 
 **"We are all connected in the LOONAverse!"** 🌌✨  
-*An engineering capstone from **National University – Laguna** (CPMICR1L: Microprocessor and Microcontroller Systems and Design)*
+*An engineering project from **National University – Laguna** ANDMIXX TEAM (CPMICR1L: Microprocessor and Microcontroller Systems and Design)*
 
 ---
 
