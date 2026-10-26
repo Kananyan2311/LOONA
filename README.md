@@ -547,7 +547,7 @@ Proudly engineered by **Team LOONA (CpE241B)** at **National University – Lagu
 <div align="center">
 
 ### 💖 ☾ "Stan LOONA, Stan Robotics!" ☽ 💖
-*Built with ❤️, C++, Python, and LOONA idol power.*
+*Built with ❤️, C++, Python, and Love for LOONA.*
 
 </div>
 
