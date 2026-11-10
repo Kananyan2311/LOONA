@@ -19,7 +19,7 @@
 **"We are all connected in the LOONAverse!"** 🌌✨  
 *An engineering project from **National University – Laguna** BY KANANYAN(Ivan) (CPMICR1L: Microprocessor and Microcontroller Systems and Design)*
 
-# This project is fully open-source and not for profit. FUCK YOO do not sell it for your own profit
+# This project is fully open-source and not for profit. FUCK YOU do not sell it for your own profit and reupload it on what else agenda
 
 ---
 
